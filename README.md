@@ -1,4 +1,4 @@
-# Abastece+ | Plataforma B2B de Abastecimiento Inteligente
+# Abastece+ | Plataforma B2B de Abastecimiento Inteligente Creado por alessandro S
 
 Abastece+ es una experiencia digital SaaS y e-commerce B2B de alta gama diseñada específicamente para pequeños y medianos comerciantes (bodegas y negocios locales en Perú). Su objetivo es transformar el abastecimiento tradicional en un flujo rápido, inteligente y autónomo.
 
