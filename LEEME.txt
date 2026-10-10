@@ -1,0 +1,21 @@
+ABASTECE+ — TIENDA B2B DE DEMOSTRACIÓN
+
+ARCHIVOS
+- index.html: página y metadatos.
+- styles.css: identidad visual, diseño adaptable y estados interactivos.
+- app.js: catálogo de muestra, carrito, checkout, pedidos, perfil y HubBot.
+
+USO
+Descomprime el ZIP y abre la carpeta con un servidor estático local, como Live Server en Visual Studio Code o `python3 -m http.server`. Luego visita la dirección local que muestre el servidor. Plus Jakarta Sans se descarga de Google Fonts cuando hay conexión; el diseño mantiene una tipografía alternativa sin conexión.
+
+ACCESO DE PRUEBA
+Usuario: demo
+Contraseña: 1234
+El catálogo aparece después de enviar las credenciales de demostración.
+
+PAGOS Y SEGURIDAD
+Este paquete es un prototipo solo de frontend. El inicio de sesión es una demostración local: no autentica ni protege información. El catálogo, carrito y pedidos de prueba pueden guardarse en localStorage de este navegador; no se sincronizan ni son registros comerciales reales.
+
+Puedes elegir tarjeta de débito/crédito o pagar contra entrega con efectivo o POS, pero no hay una pasarela conectada y no se realiza ningún cobro. No ingreses contraseñas reales ni datos de tarjeta. WhatsApp abre un enlace directo al número comercial indicado. HubBot responde localmente con información de demostración.
+
+Antes de aceptar pedidos reales o publicar para clientes, hace falta integrar autenticación del lado del servidor, API y base de datos, inventario y precios verificados, una pasarela de pago segura, políticas de privacidad y la logística comercial correspondiente.
